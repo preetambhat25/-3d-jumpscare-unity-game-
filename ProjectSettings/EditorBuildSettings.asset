@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a1d6649575af9be47a0dfbf0f3ea6f80
+  - enabled: 1
+    path: Assets/Scenes/Horror.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/scaryface.unity
+    guid: c8889375bc3b52b4fbf315f9715c3856
+  m_configObjects: {}
